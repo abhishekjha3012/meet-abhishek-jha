@@ -1,7 +1,6 @@
 import { motion } from "motion/react";
 import { Mail, Phone, MapPin, Code2, Briefcase, GraduationCap, Award } from "lucide-react";
-import profileImage from "figma:asset/2e11b66832986253213f788ba35ac4246d9a90a9.png";
-
+import profileImage from "../assets/dp.png";
 export default function App() {
   const experiences = [
     {
